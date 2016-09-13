@@ -4,4 +4,4 @@ def gevoelsCalc(t, b, l) :
     heleCalc = som +calc
     print(heleCalc)
 
-gevoelsCalc(20,2,40)
+gevoelsCalc(10,3,30)
